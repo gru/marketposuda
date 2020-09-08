@@ -1,0 +1,1 @@
+dotnet publish -r osx-x64 -v detailed -c Release /p:PublishSingleFile=true
